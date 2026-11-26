@@ -1,6 +1,7 @@
-{  
-  "$schema": "node_modules/wrangler/config-schema.json",  
-  "name": "sistani-mcp",  
-  "main": "src/index.ts",  
-  "compatibility_date": "2026-11-25",  
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sistani-mcp",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-25",
+  "compatibility_flags": ["nodejs_compat"]
 }
